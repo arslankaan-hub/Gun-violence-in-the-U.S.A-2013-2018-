@@ -1,5 +1,7 @@
 # Gun Violence Analysis  
 
+## Tableau storyboard link : https://public.tableau.com/app/profile/kaan.arslan6544/viz/Gunviolence_17589872173530/Story1
+
 ## Project Summary  
 This project focuses on analyzing patterns of gun violence incidents across the United States. Using official datasets, the analysis investigates geographic trends, temporal distributions and incident-level outcomes (fatalities and injuries). While numerous reports exist on gun violence, this project emphasizes building a structured exploratory analysis and developing an interactive Tableau storyboard for effective communication of findings.  
 
